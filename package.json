@@ -1,7 +1,7 @@
 {
-  "name": "twf0dcbcdxrszxiglsawos8xni8ymdiyidexojq2ue0",
+  "name": "responsive-video-swap",
   "version": "1.0.0",
-  "description": "Official Sandbox for development of IMED1316 class project website, which will be used as a template for modern, responsive, & pro sites using HTML, CSS, & JS.",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "serve",
